@@ -61,6 +61,11 @@ https://public.tableau.com/app/profile/devang.agrawal5827/viz/Heart_Disease_Anal
 https://youtu.be/tSazvhnvh2A
 
 ---
+# 🌐 Live Web Integration
+
+View the live web-integrated version of the project here:
+
+https://devangagrawal2004.github.io/Heart-Disease-Analysis/
 
 ## Internship
 
